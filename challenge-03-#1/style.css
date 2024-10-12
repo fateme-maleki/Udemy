@@ -1,0 +1,36 @@
+article {
+  border: 50px black;
+  border: solid black;
+  border-width: 5px;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+#price {
+  display: block;
+  font-size: x-large;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#shipping {
+  text-transform: uppercase;
+  font-size: x-small;
+  color: rgb(110, 109, 109);
+}
+a:link {
+  color: black;
+}
+
+ul {
+  list-style-type: square;
+}
+button {
+  background-color: black;
+  color: white;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
